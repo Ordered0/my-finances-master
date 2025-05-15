@@ -16,6 +16,6 @@ O Sistema de Controle de finanças é um aplicativo desenvolvido para ajudar na 
 
 
 ## Integrantes
-  - Ana Cecilia De Morais
-  - Fernando Zang
+  - Yasmim
+  - João
   - Rodrigo Caio Koelln Alfonsin
